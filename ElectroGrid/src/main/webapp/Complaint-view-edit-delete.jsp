@@ -51,8 +51,6 @@
 	</nav>
 	
 	<div class="container">
-		<br>
-		<p></p>
 		<h2> <center>Complaint List</center></h2></br>
 		<div>
 			<div class="table" id="usersDiv"></div>
