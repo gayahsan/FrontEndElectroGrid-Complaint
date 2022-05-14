@@ -79,7 +79,6 @@ public class complaintModel {
 			
 			while (resultSet.next()) {
 				
-				//String button = "<button type='button' onclick=''>Edit</button>";
 				String button = "<button type='button' onclick='edit("+resultSet.getString(1)+")' class='btn btn-primary'>Edit</button></br>&nbsp;<button type='button' onclick='deletes("+resultSet.getString(1)+")' class='btn btn-warning'>Delete</button>";
 
 				

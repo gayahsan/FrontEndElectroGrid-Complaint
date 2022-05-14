@@ -56,9 +56,12 @@
 			<div class="table" id="usersDiv"></div>
 		</div>
 		<div id="hideDiv" style="display: none">
+		
 			<h2> <center>Edit Complaint Details</center></h2></br>
+			
 			<form id="complaintForm">
 				<input type="hidden" id="edit_id" name="edit_id">
+				
 				<div class="row">
 					<div class="col-md-4 mb-3">
 						<label>Account Number</label>
