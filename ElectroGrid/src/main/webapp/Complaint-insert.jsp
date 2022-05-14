@@ -110,6 +110,7 @@
 				</div>
 				<div>
 					<button type="submit" class="btn btn-success">Submit</button>
+					 <a href="Complaint-view-edit-delete.jsp" class="btn btn-success">View Complaint List</a>
 				</div>
 			</form></br>
 		</div>
